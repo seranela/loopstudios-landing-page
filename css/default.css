@@ -8,10 +8,8 @@
 	--color-primary-extra-dark-gray: hsl(0, 0%, 41%);
 
 	/* Fonts */
-	--font-alata: 'Alata', sans-serif;
-	/* Weights: 400 */
-	--font-josefin-sans: 'Josefin Sans', sans-serif;
-	/* Weights: 300 */
+	--font-alata: 'Alata', sans-serif; /* Weights: 400 */
+	--font-josefin-sans: 'Josefin Sans', sans-serif; /* Weights: 300 */
 }
 
 /* Resets */
