@@ -45,7 +45,6 @@ body {
 	flex-direction: column;
 	align-items: center;
 	font: 400 0.9375rem var(--font-alata);
-	/*background: url(../images/mobile/image-hero.jpg) center top / contain no-repeat;*/
 	color: var(--color-primary-extra-dark-gray);
 	text-rendering: optimizeSpeed;
 	min-height: 100vh;
@@ -222,9 +221,6 @@ header {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	/* Calculate height based on image ratio minus the header height
-		calc(container width * (image height / image width) - header height) */
-	/*height: calc(100vw * (1300 / 750) - 4rem);*/
 	width: 100%;
 	max-width: 72rem;
 	margin: 0 auto;
@@ -533,9 +529,6 @@ footer {
 
 	.intro {
 		justify-content: flex-start;
-		/* Calculate height based on image ratio minus the header height
-			calc(container width * (image height / image width) - header height) */
-		/*height: calc(100vw * (650 / 1440) - 6rem);*/
 	}
 
 	.intro-heading {
