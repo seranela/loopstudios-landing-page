@@ -390,13 +390,19 @@ main {
 /* Footer */
 
 footer {
+	background: var(--color-primary-black);
+	color: var(--color-primary-white);
+	width: 100%;
+}
+
+.footer-container {
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-template-rows: repeat(4, fit-content(100%));
-	background: var(--color-primary-black);
-	color: var(--color-primary-white);
 	padding: 3rem;
 	width: 100%;
+	max-width: 72rem;
+	margin: 0 auto;
 }
 
 .footer-logo {
@@ -688,7 +694,7 @@ footer {
 
 	/* Footer */
 
-	footer {
+	.footer-container {
 		grid-template-columns: 50% 50%;
 		grid-template-rows: repeat(2, fit-content(100%));
 	}
