@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/loopstudios-landing-page-5nRi2tfssm](https://www.frontendmentor.io/solutions/loopstudios-landing-page-5nRi2tfssm)
+- Live Site URL: [https://seranela.github.io/loopstudios-landing-page/](https://seranela.github.io/loopstudios-landing-page/)
 
 ## My process
 
